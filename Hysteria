@@ -1,1 +1,12 @@
-Royal
+[
+    {
+        "UDPserver": "udp.royaltunnel.com",
+        "obfs": "royalvn",
+        "auth": "royal"
+    },
+    {
+        "UDPserver": "king.royatunnel.com",
+        "obfs": "kobe",
+        "auth": "noorislam:12"
+    }
+]
