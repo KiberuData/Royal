@@ -8,5 +8,10 @@
         "UDPserver": "king.royaltunnel.com",
         "obfs": "kobe",
         "auth": "noorislam:12"
+    },
+{
+        "UDPserver": "mg1.exoticfastvip.xyz",
+        "obfs": "kobe",
+        "auth": "noorislam:12"
     }
 ]
