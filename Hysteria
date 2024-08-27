@@ -2,16 +2,16 @@
     {
         "UDPserver": "udp.royaltunnel.com",
         "obfs": "royalvpn",
-        "auth": "royal"
+        "auth": "110,111,111,98,100,101,118,50,52"
     },
     {
         "UDPserver": "king.royaltunnel.com",
         "obfs": "kobe",
-        "auth": "noorislam:12"
+        "auth": "106,97,110,97,116,100,101,118"
     },
 {
         "UDPserver": "mg1.exoticfastvip.xyz",
         "obfs": "kobe",
-        "auth": "noorislam:12"
+        "auth": "106,97,110,97,116,100,101,118"
     }
 ]
