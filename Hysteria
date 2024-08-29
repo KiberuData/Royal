@@ -1,8 +1,8 @@
 [
     {
-        "UDPserver": "udp.royaltunnel.com",
-        "obfs": "royalvpn",
-        "auth": "114,111,121,97,108"
+        "UDPserver": "queen.royaltunnel.com",
+        "obfs": "kobe",
+        "auth": "110,111,111,98,100,101,118,50,52,58,107,100,97,116,97"
     },
 {
         "UDPserver": "queen.royaltunnel.com",
