@@ -2,7 +2,7 @@
     {
         "UDPserver": "udp.royaltunnel.com",
         "obfs": "royalvpn",
-        "auth": "royal"
+        "auth": "114,111,121,97,108"
     },
 {
         "UDPserver": "queen.royaltunnel.com",
